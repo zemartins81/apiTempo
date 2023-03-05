@@ -1,3 +1,3 @@
-import * as console from "console";
+import * as console from 'console';
 
-console.log("Teste")
+console.log('Teste');
